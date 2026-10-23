@@ -81,4 +81,4 @@ src/model/
 
 ## Author
 
-**Yermakov Ilya** — IT-2503
+**Yermakov Ilya**
